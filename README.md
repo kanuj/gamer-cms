@@ -1,2 +1,2 @@
 # gamer-cms
-GoAngularMongoEc2Redis = GAMER CMS 
+**G**o**A**ngular**M**ongo**E**c2**R**edis = GAMER CMS 
